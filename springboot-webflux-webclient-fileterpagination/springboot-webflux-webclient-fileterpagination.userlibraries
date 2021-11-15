@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="maven-wrapper">
+    <archive path="C:/Users/window10/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/springboot-webflux-webclient-fileterpagination/.mvn/wrapper/maven-wrapper.jar" />
+  </library>
+</eclipse-userlibraries>
+
